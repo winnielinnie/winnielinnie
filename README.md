@@ -4,6 +4,9 @@ I spend most of my time in product and technical strategy, but I still like writ
 
 Most of the projects here are small on purpose. I would rather publish a tool that does one job cleanly than a big demo repo that nobody actually uses.
 
+I also keep a small writing home here:
+- `winstonlin-site` — notes on developer platforms, migration, and small Python tools
+
 Lately that has meant:
 - Python utilities for writing, docs, and internal workflows
 - serverless examples based on patterns teams actually run into
@@ -17,9 +20,10 @@ Things I tend to care about:
 - making operational work easier to reason about
 
 Some good starting points:
-- `oci-fn-object-storage-router`
-- `oci-fn-csv-quality-gate`
-- `release-note-diff-cli`
+- `winstonlin-site`
+- `doc-ship-check`
 - `tiny-deck-linter`
+- `oci-fn-object-storage-router`
+- `release-note-diff-cli`
 
 I am usually more interested in useful than impressive.
