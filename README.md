@@ -1,33 +1,25 @@
-# Hi, I'm Winston
+# Winston
 
-I work on product and technical strategy, but I also like shipping small, useful things.
+I spend most of my time in product and technical strategy, but I still like writing code when there is a real problem worth shaving down.
 
-Most of what I publish falls into two buckets:
-- reusable serverless / OCI Functions examples for real workflow patterns
-- compact side projects that scratch practical annoyances
+Most of the projects here are small on purpose. I would rather publish a tool that does one job cleanly than a big demo repo that nobody actually uses.
 
-## What I'm interested in
+Lately that has meant:
+- Python utilities for writing, docs, and internal workflows
+- serverless examples based on patterns teams actually run into
+- small tools that make recurring work a little less annoying
 
-- serverless and event-driven systems
+Things I tend to care about:
 - developer experience
-- cloud migration patterns
-- AI-adjacent infrastructure and tooling
-- small utilities with a strong point of view
+- migration and adoption pain
+- event-driven systems
+- pragmatic Python tooling
+- making operational work easier to reason about
 
-## Featured projects
+Some good starting points:
+- `oci-fn-object-storage-router`
+- `oci-fn-csv-quality-gate`
+- `release-note-diff-cli`
+- `tiny-deck-linter`
 
-- `oci-fn-object-storage-router` — Object Storage event routing for file-based workflows
-- `oci-fn-csv-quality-gate` — CSV schema validation for ingestion pipelines
-- `oci-fn-webhook-signature-verifier` — HMAC verification starter for inbound webhooks
-- `release-note-diff-cli` — a tiny CLI for comparing release notes without losing your mind
-
-## How I like to build
-
-I tend to prefer projects that are:
-- small enough to understand quickly
-- opinionated enough to be useful
-- grounded in real workflows instead of generic demos
-
-## Current direction
-
-Right now I'm especially interested in making serverless systems easier to adopt, easier to troubleshoot, and easier to reuse for common enterprise patterns.
+I am usually more interested in useful than impressive.
