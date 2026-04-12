@@ -1,19 +1,20 @@
-# Winston
+# Winston Lin
 
-I work in developer platforms, serverless, and cloud infrastructure. Over the last several years I have led product work across CI/CD, Kubernetes, and serverless, usually in the parts of the stack where product judgment, developer experience, and technical depth all matter.
+Product leader building cloud-native infrastructure and developer platforms. I've led product work across CI/CD, Kubernetes, and serverless, with a focus on developer experience, migration, and platform quality.
 
-This profile is mostly a small public record of that work: a few case studies, some writing, and a handful of practical tools.
+Most of what I share publicly is a small record of that work: a few case studies, some writing, and a handful of practical tools.
 
-A few places to start:
+Start here:
 - [site](https://winnielinnie.github.io/winstonlin-site/) — writing, case studies, and selected projects
+- [Oracle Blogs](https://blogs.oracle.com/authors/winstonlin_1/) — published pieces on infrastructure and product work
 - [`oci-fn-object-storage-router`](https://github.com/winnielinnie/oci-fn-object-storage-router) — a reusable OCI Functions integration pattern
-- [`release-note-diff-cli`](https://github.com/winnielinnie/release-note-diff-cli) — a tiny CLI for finding meaningful release note changes faster
+- [`release-note-diff-cli`](https://github.com/winnielinnie/release-note-diff-cli) — a small CLI for tracking meaningful release note changes faster
 
-Things I tend to care about:
+Themes I come back to:
 - developer experience
-- migration and adoption pain
-- event-driven systems
-- infrastructure product strategy
-- making operational systems easier to reason about
+- migration and adoption friction
+- serverless and event-driven systems
+- platform quality and operational clarity
+- small Python tools that remove recurring drag
 
-I am usually more interested in useful than flashy.
+I tend to prefer useful over flashy.
