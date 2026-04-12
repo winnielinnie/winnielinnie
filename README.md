@@ -1,6 +1,6 @@
 # Winston
 
-I work in developer platforms, serverless, and cloud infrastructure. Over the last several years I have led product work across CI/CD, Kubernetes, and serverless, usually in the parts of the stack where product judgment and technical depth both matter.
+I work in developer platforms, serverless, and cloud infrastructure. Over the last several years I have led product work across CI/CD, Kubernetes, and serverless, usually in the parts of the stack where product judgment, developer experience, and technical depth all matter.
 
 This profile is mostly a small public record of that work: a few case studies, some writing, and a handful of practical tools.
 
