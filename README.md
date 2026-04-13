@@ -1,20 +1,45 @@
-# Winston Lin
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Winston Lin header" width="100%" />
+</p>
 
-Product leader building cloud-native infrastructure and developer platforms. I've led product work across CI/CD, Kubernetes, and serverless, with a focus on developer experience, migration, and platform quality.
+I work across serverless, platform products, AI workflows, and business systems.
 
-Most of what I share publicly is a small record of that work: a few case studies, some writing, and a handful of practical tools.
+Most of what I share here is technical, but the through-line is the same: find the friction, clarify the system, and ship the useful version.
 
-Start here:
-- [site](https://winnielinnie.github.io/winstonlin-site/) — writing, case studies, and selected projects
-- [Oracle Blogs](https://blogs.oracle.com/authors/winstonlin_1/) — published pieces on infrastructure and product work
-- [`oci-fn-object-storage-router`](https://github.com/winnielinnie/oci-fn-object-storage-router) — a reusable OCI Functions integration pattern
-- [`release-note-diff-cli`](https://github.com/winnielinnie/release-note-diff-cli) — a small CLI for tracking meaningful release note changes faster
+**Start here**
 
-Themes I come back to:
-- developer experience
-- migration and adoption friction
-- serverless and event-driven systems
-- platform quality and operational clarity
-- small Python tools that remove recurring drag
+- [Portfolio site](https://winnielinnie.github.io/winstonlin-site/) - selected case studies, essays, and tools
+- [Case studies](https://winnielinnie.github.io/winstonlin-site/case-studies/) - Functions, platform systems, and enterprise delivery work
+- [Writing](https://winnielinnie.github.io/winstonlin-site/blog/) - product notes on friction, migration, AI workflows, and operating models
+- [Oracle blogs](https://blogs.oracle.com/authors/winstonlin_1/) - public pieces on infrastructure and product work
 
-I tend to prefer useful over flashy.
+**Selected work**
+
+- [winstonlin-site](https://github.com/winnielinnie/winstonlin-site) - personal site with case studies, essays, and a cleaner record of recent work
+- [oci-fn-object-storage-router](https://github.com/winnielinnie/oci-fn-object-storage-router) - reusable Python pattern for routing Object Storage events to downstream systems
+- [release-note-diff-cli](https://github.com/winnielinnie/release-note-diff-cli) - small Python CLI for scanning release note changes faster
+- [doc-ship-check](https://github.com/winnielinnie/doc-ship-check) - last-mile docs cleanup script for publishable output
+
+**What I tend to care about**
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>AI workflows</strong><br>
+      Recovery paths, usable output, and systems that help people move from rough input to something shippable.
+    </td>
+    <td valign="top" width="33%">
+      <strong>Platform product</strong><br>
+      Migration quality, first-run experience, reliability, and the friction that quietly decides adoption.
+    </td>
+    <td valign="top" width="33%">
+      <strong>Business systems</strong><br>
+      Growth, service design, operating models, and the mechanics behind how teams actually deliver value.
+    </td>
+  </tr>
+</table>
+
+**Elsewhere**
+
+- [LinkedIn](https://www.linkedin.com/in/winston-lins/)
+- [Email](mailto:winstonl.96@gmail.com)

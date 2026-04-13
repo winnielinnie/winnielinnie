@@ -1,0 +1,73 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Winston Lin GitHub profile header</title>
+  <desc id="desc">A warm editorial header with Winston Lin, product, systems, and shipping.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FCF8F2"/>
+      <stop offset="52%" stop-color="#F4ECE1"/>
+      <stop offset="100%" stop-color="#EFE5D7"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(152 54) rotate(48) scale(330 230)">
+      <stop stop-color="#D89B7C" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#D89B7C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 72) rotate(136) scale(280 220)">
+      <stop stop-color="#7FA79E" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#7FA79E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 278) rotate(180) scale(260 180)">
+      <stop stop-color="#D6BF8E" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#D6BF8E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A65F42"/>
+      <stop offset="50%" stop-color="#477A73"/>
+      <stop offset="100%" stop-color="#A88952"/>
+    </linearGradient>
+    <linearGradient id="chipA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F2FAF7"/>
+      <stop offset="100%" stop-color="#EDF2EC"/>
+    </linearGradient>
+    <linearGradient id="chipB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF4EE"/>
+      <stop offset="100%" stop-color="#F8EEE5"/>
+    </linearGradient>
+    <linearGradient id="chipC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBF6E5"/>
+      <stop offset="100%" stop-color="#F5ECDB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="28" fill="url(#glowA)"/>
+  <rect width="1280" height="320" rx="28" fill="url(#glowB)"/>
+  <rect width="1280" height="320" rx="28" fill="url(#glowC)"/>
+  <rect x="50" y="40" width="1180" height="240" rx="26" fill="#FFFDF9" fill-opacity="0.4" stroke="#DACDBE"/>
+  <text x="86" y="94" fill="#9A5C44" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="4.2">WINSTON LIN</text>
+  <text x="84" y="156" fill="#171412" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600">Product, systems, and shipping.</text>
+  <text x="86" y="194" fill="#605851" font-family="Arial, Helvetica, sans-serif" font-size="22">Serverless, developer platforms, AI workflows, and business systems.</text>
+  <path d="M86 224H386" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+
+  <g transform="translate(86 244)">
+    <rect width="174" height="38" rx="19" fill="url(#chipA)" stroke="#BDD0C9"/>
+    <circle cx="20" cy="19" r="6" fill="#477A73"/>
+    <text x="36" y="24" fill="#2B2622" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">AI workflows</text>
+  </g>
+  <g transform="translate(274 244)">
+    <rect width="190" height="38" rx="19" fill="url(#chipB)" stroke="#DEC2B5"/>
+    <circle cx="20" cy="19" r="6" fill="#A65F42"/>
+    <text x="36" y="24" fill="#2B2622" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Platform product</text>
+  </g>
+  <g transform="translate(478 244)">
+    <rect width="182" height="38" rx="19" fill="url(#chipC)" stroke="#DCC89A"/>
+    <circle cx="20" cy="19" r="6" fill="#A88952"/>
+    <text x="36" y="24" fill="#2B2622" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Business systems</text>
+  </g>
+
+  <g transform="translate(865 72)">
+    <rect width="280" height="132" rx="22" fill="#FFF9F2" fill-opacity="0.86" stroke="#DDCDBD"/>
+    <text x="24" y="34" fill="#7A6F66" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">HOW I WORK</text>
+    <text x="24" y="66" fill="#1E1916" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Find the friction.</text>
+    <text x="24" y="92" fill="#1E1916" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Clarify the system.</text>
+    <text x="24" y="118" fill="#1E1916" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Ship the useful version.</text>
+  </g>
+</svg>
