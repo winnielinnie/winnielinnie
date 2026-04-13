@@ -8,7 +8,9 @@ Most of what I share here is technical, but the through-line is the same: find t
 
 Recent work leans heavily on OCI Functions: onboarding simplification, migration readiness, async reliability, developer trust, and the broader execution story for AI-era workflows.
 
-**Start here**
+The site is the cleanest path through the work. Case studies go deeper, writing stays lighter, and code shows the practical edge.
+
+**A few ways in**
 
 - [Portfolio site](https://winnielinnie.github.io/winstonlin-site/) - selected case studies, essays, and tools
 - [Case studies](https://winnielinnie.github.io/winstonlin-site/case-studies/) - Functions, platform systems, and enterprise delivery work
