@@ -6,6 +6,8 @@ I work across serverless, platform products, AI workflows, and business systems.
 
 Most of what I share here is technical, but the through-line is the same: find the friction, clarify the system, and ship the useful version.
 
+Recent work leans heavily on OCI Functions: onboarding simplification, migration readiness, async reliability, developer trust, and the broader execution story for AI-era workflows.
+
 **Start here**
 
 - [Portfolio site](https://winnielinnie.github.io/winstonlin-site/) - selected case studies, essays, and tools
