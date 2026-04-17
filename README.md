@@ -13,7 +13,7 @@ The site is the cleanest path through the work. Case studies go deeper, writing 
 **Start here**
 
 - [Case studies](https://winnielinnie.github.io/winstonlin-site/case-studies/) if you want the higher-context product and platform work
-- [What Working With Codex Taught Me About AI Work](https://winnielinnie.github.io/winstonlin-site/blog/what-working-with-codex-taught-me-about-ai-work/) if you want the clearest view of how I think about practical AI use
+- [AI Work Needs Real Tools](https://winnielinnie.github.io/winstonlin-site/blog/what-working-with-codex-taught-me-about-ai-work/) if you want the clearest view of how I think about practical AI use
 - [Portfolio site](https://winnielinnie.github.io/winstonlin-site/) if you want the full path across case studies, writing, and tools
 
 **A few ways in**
