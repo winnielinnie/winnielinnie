@@ -17,12 +17,11 @@ Most of what I share here is small and practical on purpose: reusable OCI Functi
 
 ## Selected repos
 
-- [`repo-onramp-check`](https://github.com/winnielinnie/repo-onramp-check) — checks whether a public repo gives a newcomer a short path to first useful success
-- [`incident-timeline-formatter`](https://github.com/winnielinnie/incident-timeline-formatter) — turns messy incident notes into a stable Markdown timeline
-- [`dependency-risk-check`](https://github.com/winnielinnie/dependency-risk-check) — flags overdue, unowned, and blocked work in lightweight plans
 - [`doc-ship-check`](https://github.com/winnielinnie/doc-ship-check) — catches last-mile docs issues before publishing or handoff
+- [`release-note-diff-cli`](https://github.com/winnielinnie/release-note-diff-cli) — diff two release note files and surface the additions most likely to matter
 - [`oci-fn-object-storage-router`](https://github.com/winnielinnie/oci-fn-object-storage-router) — reusable Python pattern for routing Object Storage events to downstream systems
-- [`one-page-canvas`](https://github.com/winnielinnie/one-page-canvas) — lightweight browser canvas for shaping one-page artifacts before they turn into heavier decks
+- [`oci-fn-csv-quality-gate`](https://github.com/winnielinnie/oci-fn-csv-quality-gate) — validate inbound CSVs against a small schema contract before deeper processing
+- [`winstonlin-site`](https://github.com/winnielinnie/winstonlin-site) — personal site with case studies, writing, and selected technical work
 
 ## What ties it together
 
