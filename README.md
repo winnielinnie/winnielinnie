@@ -2,57 +2,35 @@
   <img src="./assets/profile-header.svg" alt="Winston Lin header" width="100%" />
 </p>
 
-I work across serverless, platform products, AI workflows, operational tooling, and business systems.
+I work across cloud products, developer platforms, AI workflows, and operational systems.
 
-Most of what I share here is technical, but the through-line is the same: find the friction, clarify the system, and ship the useful version.
+Over the last several years I have led product work across CI/CD, Kubernetes, and serverless, usually where product judgment, developer experience, and technical depth all matter at once.
 
-Recent work leans heavily on OCI Functions and workflow tooling: onboarding simplification, migration readiness, async reliability, developer trust, and the practical side of how teams move from rough inputs to usable outputs.
+Most of what I share here is small and practical on purpose: reusable OCI Functions patterns, workflow utilities, and notes on where adoption, trust, and execution usually break. The site is the cleanest route through the work. GitHub shows the more hands-on side.
 
-The site is the cleanest path through the work. Case studies go deeper, writing stays lighter, and code shows the practical edge.
+## Start here
 
-**Start here**
+- [Portfolio site](https://winnielinnie.github.io/winstonlin-site/) for the cleanest route across case studies, writing, and selected repos
+- [Case studies](https://winnielinnie.github.io/winstonlin-site/case-studies/) for higher-context product and platform work
+- [AI Work Needs Real Tools](https://winnielinnie.github.io/winstonlin-site/blog/what-working-with-codex-taught-me-about-ai-work/) for the clearest note on how I think about practical AI use
+- [Oracle blogs](https://blogs.oracle.com/authors/winstonlin_1/) for public writing on infrastructure, recovery, and Functions patterns
 
-- [Case studies](https://winnielinnie.github.io/winstonlin-site/case-studies/) if you want the higher-context product and platform work
-- [AI Work Needs Real Tools](https://winnielinnie.github.io/winstonlin-site/blog/what-working-with-codex-taught-me-about-ai-work/) if you want the clearest view of how I think about practical AI use
-- [Portfolio site](https://winnielinnie.github.io/winstonlin-site/) if you want the full path across case studies, writing, and tools
+## Selected repos
 
-**A few ways in**
+- [`repo-onramp-check`](https://github.com/winnielinnie/repo-onramp-check) — checks whether a public repo gives a newcomer a short path to first useful success
+- [`incident-timeline-formatter`](https://github.com/winnielinnie/incident-timeline-formatter) — turns messy incident notes into a stable Markdown timeline
+- [`dependency-risk-check`](https://github.com/winnielinnie/dependency-risk-check) — flags overdue, unowned, and blocked work in lightweight plans
+- [`doc-ship-check`](https://github.com/winnielinnie/doc-ship-check) — catches last-mile docs issues before publishing or handoff
+- [`oci-fn-object-storage-router`](https://github.com/winnielinnie/oci-fn-object-storage-router) — reusable Python pattern for routing Object Storage events to downstream systems
+- [`one-page-canvas`](https://github.com/winnielinnie/one-page-canvas) — lightweight browser canvas for shaping one-page artifacts before they turn into heavier decks
 
-- [Writing](https://winnielinnie.github.io/winstonlin-site/blog/) - product notes on friction, migration, AI workflows, and operating models
-- [Codex note](https://winnielinnie.github.io/winstonlin-site/blog/what-working-with-codex-taught-me-about-ai-work/) - what hands-on AI work clarified for me about tools, review loops, and usable output
-- [Incident timeline note](https://winnielinnie.github.io/winstonlin-site/blog/incident-timelines-need-a-stable-shape/), [repo onboarding note](https://winnielinnie.github.io/winstonlin-site/blog/public-repos-need-a-short-path-to-first-useful-success/), and [examples as interface](https://winnielinnie.github.io/winstonlin-site/blog/examples-are-the-interface-for-small-tools/) - shorter pieces on operational clarity and practical repo design
-- [Oracle blogs](https://blogs.oracle.com/authors/winstonlin_1/) - public pieces on infrastructure and product work
+## What ties it together
 
-**Selected work**
+- **AI workflows** — tools, files, review loops, and usable output instead of one-off prompting
+- **Platform product** — onboarding, migration, reliability, and the friction that decides adoption
+- **Operational clarity** — dependencies, incidents, handoffs, and the structures teams rely on day to day
 
-- [winstonlin-site](https://github.com/winnielinnie/winstonlin-site) - personal site with case studies, essays, and a cleaner record of recent work
-- [oci-fn-object-storage-router](https://github.com/winnielinnie/oci-fn-object-storage-router) - reusable Python pattern for routing Object Storage events to downstream systems
-- [repo-onramp-check](https://github.com/winnielinnie/repo-onramp-check) - Python CLI for checking whether a public repo has a usable first-run path
-- [incident-timeline-formatter](https://github.com/winnielinnie/incident-timeline-formatter) - Python CLI for turning incident notes into a stable Markdown timeline
-- [decision-journal-cli](https://github.com/winnielinnie/decision-journal-cli) - small CLI for making assumptions and revisit dates harder to lose
-- [one-page-canvas](https://github.com/winnielinnie/one-page-canvas) - lightweight browser canvas for shaping one-page plans before they become heavier decks
-- [doc-ship-check](https://github.com/winnielinnie/doc-ship-check) - last-mile docs cleanup script for publishable output
-
-**What I tend to care about**
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>AI workflows</strong><br>
-      Recovery paths, usable output, and systems that help people move from rough input to something shippable.
-    </td>
-    <td valign="top" width="33%">
-      <strong>Platform product</strong><br>
-      Migration quality, first-run experience, reliability, and the friction that quietly decides adoption.
-    </td>
-    <td valign="top" width="33%">
-      <strong>Business systems</strong><br>
-      Growth, service design, operating models, and the mechanics behind how teams actually deliver value.
-    </td>
-  </tr>
-</table>
-
-**Elsewhere**
+## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/winston-lins/)
 - [Email](mailto:winstonl.96@gmail.com)
