@@ -1,20 +1,21 @@
 # Winston Lin
 
-Principal Product Manager at Oracle Cloud Infrastructure, working on OCI Functions.
+Product leader at Oracle Cloud Infrastructure, working across developer platforms, cloud infrastructure, and operating systems for technical teams.
 
-I work on cloud products, developer workflows, and practical tools, especially where setup, migration, troubleshooting, and day-to-day operations need to be easier to understand.
+I work on cloud products, developer workflows, and practical tools. I also advise startups, SMBs, and family businesses on product positioning, pricing, growth, operations, and technology decisions.
 
 ## What I work on
 
 - OCI Functions product strategy across setup, migration, troubleshooting, async work, and developer experience
 - Developer platform work across Kubernetes, CI/CD, service deployment, and internal tools
+- Startup, SMB, and family-business advisory across product, pricing, growth, operations, and technology decisions
 - Small public tools that make reviews, handoffs, examples, and rerun paths easier to inspect
 - AI-assisted workflows that stay tied to real files, review loops, and recovery paths
 
 ## Start here
 
 - **Portfolio site**: [winstonlin-site](https://winnielinnie.github.io/winstonlin-site/) for the cleanest route across case studies, writing, and selected repos
-- **Case studies**: [product, platform, and operating work](https://winnielinnie.github.io/winstonlin-site/case-studies/) across OCI Functions, OKE, internal developer platform work, and enterprise delivery
+- **Case studies**: [product, platform, advisory, and operating work](https://winnielinnie.github.io/winstonlin-site/case-studies/) across cloud infrastructure, startup advisory, enterprise delivery, and internal platforms
 - **Projects**: [grouped repo view](https://winnielinnie.github.io/winstonlin-site/projects/) for workflow checks, planning artifacts, and OCI Functions starter patterns
 - **AI workflow point of view**: [How I Use AI as a PM With a Real Workspace](https://winnielinnie.github.io/winstonlin-site/blog/how-i-use-ai-as-a-pm-with-a-real-workspace/)
 - **Oracle writing**: [Oracle author page](https://blogs.oracle.com/authors/winstonlin_1/)
@@ -22,6 +23,8 @@ I work on cloud products, developer workflows, and practical tools, especially w
 ## Context I can point to
 
 - OCI Functions serves 1,000+ enterprise customers
+- Advised startups, SMBs, and family businesses from roughly $30K to $20M+ in annual revenue, including projects tied to $1M+ in revenue growth
+- Led 10+ enterprise SaaS implementations from discovery through go-live across construction, utilities, telecom, and asset management
 - Worked on activation, migration readiness, workload coverage, and enterprise adoption during a period of 80% YoY usage growth
 - Worked on regional delivery systems that helped compress build timelines for 250+ OCI services from about 3 months to about 30 days
 
@@ -54,6 +57,7 @@ Small serverless examples that show the event, contract, and next handoff withou
 ## What ties it together
 
 - **Platform product**: onboarding, migration, troubleshooting, and reliable execution
+- **Company-building work**: positioning, pricing, growth strategy, operating rhythm, and practical technology choices
 - **AI workflows**: real files, review loops, and usable output instead of one-off prompting
 - **Operational clarity**: dependencies, incidents, handoffs, and the structures teams rely on day to day
 - **Small public tools**: narrow utilities and starter repos that leave behind a reusable output, check, or handoff
