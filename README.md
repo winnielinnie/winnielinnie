@@ -2,9 +2,9 @@
 
 Principal Product Manager at Oracle Cloud Infrastructure, working on OCI Functions.
 
-I work on the adoption layer of complex systems: onboarding, migration, troubleshooting, and trust for developer platforms, cloud products, and AI-assisted workflows.
+I work on cloud products, developer workflows, and practical tools, especially where setup, migration, troubleshooting, and day-to-day operations need to be easier to understand.
 
-## Selected proof
+## At a glance
 
 - Own product strategy for OCI Functions, a serverless platform serving 1,000+ enterprise customers
 - Drove 80% YoY usage growth by improving activation, migration readiness, workload coverage, and enterprise adoption
@@ -39,7 +39,7 @@ Tools that leave behind a useful artifact instead of stopping at a one-time revi
 
 ### OCI Functions starter patterns
 
-Boundary-first serverless examples that show the event, contract, and next handoff without pretending to be full apps.
+Small serverless examples that show the event, contract, and next handoff without pretending to be full apps.
 
 - **Proof**: [`oci-fn-object-storage-router`](https://github.com/winnielinnie/oci-fn-object-storage-router) routes Object Storage events to the right downstream system
 - **Context**: [Functions Design Patterns](https://blogs.oracle.com/cloud-infrastructure/oci-functions-common-patterns/)
@@ -47,7 +47,7 @@ Boundary-first serverless examples that show the event, contract, and next hando
 
 ## What ties it together
 
-- **Platform product**: onboarding, migration, support boundaries, and reliable execution
+- **Platform product**: onboarding, migration, troubleshooting, and reliable execution
 - **AI workflows**: real files, review loops, and usable output instead of one-off prompting
 - **Operational clarity**: dependencies, incidents, handoffs, and the structures teams rely on day to day
 - **Small public tools**: narrow utilities and starter repos that leave behind a reusable output, check, or handoff
