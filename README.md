@@ -4,12 +4,12 @@ Principal Product Manager at Oracle Cloud Infrastructure, working on OCI Functio
 
 I work on cloud products, developer workflows, and practical tools, especially where setup, migration, troubleshooting, and day-to-day operations need to be easier to understand.
 
-## At a glance
+## What I work on
 
-- Own product strategy for OCI Functions, a serverless platform serving 1,000+ enterprise customers
-- Drove 80% YoY usage growth by improving activation, migration readiness, workload coverage, and enterprise adoption
-- Led OCI Kubernetes Engine and OCI Functions strategy tied to $3B+ annual attributed revenue
-- Launched internal platform systems that cut regional delivery timelines for 250+ OCI services from about 3 months to 30 days and reduced incident root-cause identification time by 60%
+- OCI Functions product strategy across setup, migration, troubleshooting, async work, and developer experience
+- Developer platform work across Kubernetes, CI/CD, service deployment, and internal tools
+- Small public tools that make reviews, handoffs, examples, and rerun paths easier to inspect
+- AI-assisted workflows that stay tied to real files, review loops, and recovery paths
 
 ## Start here
 
@@ -18,6 +18,12 @@ I work on cloud products, developer workflows, and practical tools, especially w
 - **Projects**: [grouped repo view](https://winnielinnie.github.io/winstonlin-site/projects/) for workflow checks, planning artifacts, and OCI Functions starter patterns
 - **AI workflow point of view**: [How I Use AI as a PM With a Real Workspace](https://winnielinnie.github.io/winstonlin-site/blog/how-i-use-ai-as-a-pm-with-a-real-workspace/)
 - **Oracle writing**: [Oracle author page](https://blogs.oracle.com/authors/winstonlin_1/)
+
+## Context I can point to
+
+- OCI Functions serves 1,000+ enterprise customers
+- Worked on activation, migration readiness, workload coverage, and enterprise adoption during a period of 80% YoY usage growth
+- Worked on regional delivery systems that helped compress build timelines for 250+ OCI services from about 3 months to about 30 days
 
 ## Public repo tracks
 
